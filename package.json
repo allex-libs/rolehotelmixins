@@ -1,0 +1,27 @@
+{
+  "name": "allex_rolehotelmixinslib",
+  "version": "1.0.0",
+  "description": "AllexJS mixins lib for a role based Hotel Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/rolehotelmixins.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "role",
+    "based",
+    "hotel",
+    "mixins",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/rolehotelmixins/issues"
+  },
+  "homepage": "https://github.com/allex-libs/rolehotelmixins#readme"
+}
